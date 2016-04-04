@@ -1,0 +1,27 @@
+body {
+	background: #ddd;
+	color: #000;
+	font-family: Raleway,"Trebuchet MS";
+}
+input[type="text"] {
+	height: 30px;
+	width: 300px;
+	border: none;
+	border-bottom: 5px solid #3498db;
+	text-align: center;
+}
+input[type="submit"] {
+	height: 30px;
+	width: 30px;
+	border: none;
+	border-bottom: 5px solid #3498db;
+	color: #ffffff;
+	background: #3498db;
+	text-align: center;
+}
+h1 {
+	color: #3498db;
+}
+h2 {
+	color: #2980b9;
+}
